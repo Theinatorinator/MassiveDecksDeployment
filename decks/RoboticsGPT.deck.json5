@@ -1,39 +1,33 @@
 {
-  "name": "RoboticsGPT",
-  "language": "en-US",
-  "author": "TheInatorInator",
-  "calls": [
+  name: "RoboticsGPT",
+  language: "en-US",
+  author: "TheInatorInator",
+  calls: [
     [
       [
-        "\"I programmed the robot to do ",
+        '"I programmed the robot to do ',
         {},
         " but it ended up doing ",
         {},
-        " instead.\""
-      ]
+        ' instead."',
+      ],
     ],
+    [['"When the field is too crowded, I like to hide behind the ', {}, '."']],
     [
       [
-        "\"When the field is too crowded, I like to hide behind the ",
-        {},
-        ".\""
-      ]
-    ],
-    [
-      [
-        "\"The secret to winning FRC is to have a really good ",
+        '"The secret to winning FRC is to have a really good ',
         {},
         " and a really good ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"When the robot breaks down during a match, the best thing to do is ",
+        '"When the robot breaks down during a match, the best thing to do is ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
@@ -41,97 +35,61 @@
         {},
         " but didn't like that it couldn't ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
-    [
-      [
-        "\"Our team's motto is ",
-        {},
-        ", ",
-        {},
-        ", and ",
-        {},
-        ".\""
-      ]
-    ],
-    [
-      [
-        "\"The most important tool in the pit is ",
-        {},
-        ".\""
-      ]
-    ],
-    [
-      [
-        "\"When the mentor isn't looking, the students like to ",
-        {},
-        ".\""
-      ]
-    ],
-    [
-      [
-        "\"Our robot's nickname is ",
-        {},
-        " because it always ",
-        {},
-        ".\""
-      ]
-    ],
+    [["\"Our team's motto is ", {}, ", ", {}, ", and ", {}, '."']],
+    [['"The most important tool in the pit is ', {}, '."']],
+    [["\"When the mentor isn't looking, the students like to ", {}, '."']],
+    [["\"Our robot's nickname is ", {}, " because it always ", {}, '."']],
     [
       [
         "\"We lost the match because we didn't account for the ",
         {},
-        " factor.\""
-      ]
+        ' factor."',
+      ],
     ],
     [
       [
-        "\"During the build season, our team sustains itself on a steady diet of ",
+        '"During the build season, our team sustains itself on a steady diet of ',
         {},
         " and ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"My favorite robot design is one that can ",
+        '"My favorite robot design is one that can ',
         {},
         " and ",
         {},
-        " at the same time.\""
-      ]
+        ' at the same time."',
+      ],
     ],
+    [["\"At competition, our team's good luck charm is always ", {}, '."']],
     [
       [
-        "\"At competition, our team's good luck charm is always ",
-        {},
-        ".\""
-      ]
-    ],
-    [
-      [
-        "\"The team member who always forgets to bring ",
+        '"The team member who always forgets to bring ',
         {},
         " to competition is ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"I'll never forget the time our robot got stuck on the field because of ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most challenging part of the FRC game is mastering the ",
+        '"The most challenging part of the FRC game is mastering the ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
@@ -139,31 +97,31 @@
         {},
         " but also their tendency to ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"Our robot was designed to withstand ",
+        '"Our robot was designed to withstand ',
         {},
         " but we didn't account for ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important rule in the pit is to always have ",
+        '"The most important rule in the pit is to always have ',
         {},
-        " handy.\""
-      ]
+        ' handy."',
+      ],
     ],
     [
       [
-        "\"If our robot could speak, it would probably say ",
+        '"If our robot could speak, it would probably say ',
         {},
-        " every time we tested it.\""
-      ]
+        ' every time we tested it."',
+      ],
     ],
     [
       [
@@ -171,122 +129,122 @@
         {},
         " and ",
         {},
-        " in one match.\""
-      ]
+        ' in one match."',
+      ],
     ],
     [
       [
-        "\"I can always tell when a team is new to FRC because they always forget to ",
+        '"I can always tell when a team is new to FRC because they always forget to ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"When our robot gets damaged during a match, we always turn to ",
+        '"When our robot gets damaged during a match, we always turn to ',
         {},
-        " to fix it.\""
-      ]
+        ' to fix it."',
+      ],
     ],
     [
       [
-        "\"The most embarrassing thing that ever happened to me at competition was when I ",
+        '"The most embarrassing thing that ever happened to me at competition was when I ',
         {},
-        "."
-      ]
+        ".",
+      ],
     ],
     [
       [
         "\"Our team's secret weapon is our ability to ",
         {},
-        " better than any other team.\""
-      ]
+        ' better than any other team."',
+      ],
     ],
     [
       [
-        "\"If our robot could talk, it would probably complain about how much it hates ",
+        '"If our robot could talk, it would probably complain about how much it hates ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The best way to motivate our team during a competition is to promise us ",
+        '"The best way to motivate our team during a competition is to promise us ',
         {},
-        " after we win.\""
-      ]
+        ' after we win."',
+      ],
     ],
     [
       [
         "\"Our team's biggest weakness is our inability to properly ",
         {},
-        " our robot.\""
-      ]
+        ' our robot."',
+      ],
     ],
     [
       [
-        "\"The worst thing that ever happened to me at competition was when I accidentally ",
+        '"The worst thing that ever happened to me at competition was when I accidentally ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our robot's biggest flaw is that it always seems to ",
         {},
-        " at the worst possible moment.\""
-      ]
+        ' at the worst possible moment."',
+      ],
     ],
     [
       [
         "\"The hardest thing about being an FRC mentor is dealing with the students' constant questions about ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"During the build season, we spend more time arguing about ",
+        '"During the build season, we spend more time arguing about ',
         {},
-        " than we do actually building the robot.\""
-      ]
+        ' than we do actually building the robot."',
+      ],
     ],
     [
       [
-        "\"The most satisfying feeling in FRC is when you successfully ",
+        '"The most satisfying feeling in FRC is when you successfully ',
         {},
-        " on the first try.\""
-      ]
+        ' on the first try."',
+      ],
     ],
     [
       [
         "\"Our team's favorite pre-competition ritual is to ",
         {},
-        " together as a team.\""
-      ]
+        ' together as a team."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        '"The most important thing to remember when designing a robot is to always prioritize ',
         {},
         " over ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's biggest strength is our ability to quickly ",
         {},
-        " our robot on the fly.\""
-      ]
+        ' our robot on the fly."',
+      ],
     ],
     [
       [
-        "\"The most exciting moment during an FRC match is when you successfully ",
+        '"The most exciting moment during an FRC match is when you successfully ',
         {},
-        " with only seconds left on the clock.\""
-      ]
+        ' with only seconds left on the clock."',
+      ],
     ],
     [
       [
@@ -294,250 +252,244 @@
         {},
         " because we're always trying to ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
-    [
-      [
-        "\"The one thing I wish I could change about the FRC game is ",
-        {},
-        ".\""
-      ]
-    ],
+    [['"The one thing I wish I could change about the FRC game is ', {}, '."']],
     [
       [
         "\"When our robot's battery dies during a match, we always blame it on ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The best thing about FRC is the feeling you get when you finally ",
+        '"The best thing about FRC is the feeling you get when you finally ',
         {},
-        " after weeks of hard work.\""
-      ]
+        ' after weeks of hard work."',
+      ],
     ],
     [
       [
-        "\"If our robot could have any superpower, it would definitely be the ability to ",
+        '"If our robot could have any superpower, it would definitely be the ability to ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        '"The most important thing to remember when scouting other teams is to always pay attention to their ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's biggest strength is also our biggest weakness, which is our tendency to always ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"During the off-season, our team likes to ",
+        '"During the off-season, our team likes to ',
         {},
-        " to keep our skills sharp.\""
-      ]
+        ' to keep our skills sharp."',
+      ],
     ],
     [
       [
-        "\"The most annoying thing about FRC is when teams always try to ",
+        '"The most annoying thing about FRC is when teams always try to ',
         {},
-        " instead of just playing the game.\""
-      ]
+        ' instead of just playing the game."',
+      ],
     ],
     [
       [
         "\"Our team's biggest achievement was when we successfully ",
         {},
-        " and won the competition.\""
-      ]
+        ' and won the competition."',
+      ],
     ],
     [
       [
-        "\"The one thing I wish I knew before I started FRC was how much time I would spend on ",
+        '"The one thing I wish I knew before I started FRC was how much time I would spend on ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The best way to get a good score in FRC is to focus on ",
+        '"The best way to get a good score in FRC is to focus on ',
         {},
         " and ignore ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember during a match is to always ",
+        '"The most important thing to remember during a match is to always ',
         {},
         " and never ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's secret to success is our ability to always ",
         {},
-        " under pressure.\""
-      ]
+        ' under pressure."',
+      ],
     ],
     [
       [
-        "\"The most important lesson I learned from FRC is that ",
+        '"The most important lesson I learned from FRC is that ',
         {},
-        " is more important than anything else.\""
-      ]
+        ' is more important than anything else."',
+      ],
     ],
     [
       [
-        "\"If our robot could have a catchphrase, it would definitely be ",
+        '"If our robot could have a catchphrase, it would definitely be ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's biggest rival is always trying to one-up us by ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when working on the robot is to always check the ",
+        '"The most important thing to remember when working on the robot is to always check the ',
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's biggest regret was not being able to ",
         {},
-        " during a crucial match.\""
-      ]
+        ' during a crucial match."',
+      ],
     ],
     [
       [
-        "\"The hardest thing about FRC is trying to balance ",
+        '"The hardest thing about FRC is trying to balance ',
         {},
         " and ",
         {},
-        " while also building a robot.\""
-      ]
+        ' while also building a robot."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always have ",
+        '"The most important thing to remember when competing in FRC is to always have ',
         {},
         " and never run out of ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"If our robot was a character from a TV show, it would definitely be ",
+        '"If our robot was a character from a TV show, it would definitely be ',
         {},
         " from ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite part of FRC is when we get to ",
         {},
-        " during the off-season.\""
-      ]
+        ' during the off-season."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when working on the robot is to always wear ",
+        '"The most important thing to remember when working on the robot is to always wear ',
         {},
         " and never forget your ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when designing a robot is to always consider the ",
+        '"The most important thing to remember when designing a robot is to always consider the ',
         {},
-        " of the game.\""
-      ]
+        ' of the game."',
+      ],
     ],
     [
       [
         "\"Our team's biggest challenge is trying to overcome our tendency to always ",
         {},
-        " when things get tough.\""
-      ]
+        ' when things get tough."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always communicate with your ",
+        '"The most important thing to remember when competing in FRC is to always communicate with your ',
         {},
         " and trust your ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The one thing I wish I could tell all FRC rookies is to never underestimate the power of ",
+        '"The one thing I wish I could tell all FRC rookies is to never underestimate the power of ',
         {},
-        " when designing a robot.\""
-      ]
+        ' when designing a robot."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when scouting other teams is to always look for their ",
+        '"The most important thing to remember when scouting other teams is to always look for their ',
         {},
         " and how they ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite way to unwind after a competition is to ",
         {},
-        " and talk about all the things we learned.\""
-      ]
+        ' and talk about all the things we learned."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when building a robot is to always focus on ",
+        '"The most important thing to remember when building a robot is to always focus on ',
         {},
         " and never get distracted by ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"If our robot could talk, it would definitely say ",
+        '"If our robot could talk, it would definitely say ',
         {},
-        " every time it successfully completed a task.\""
-      ]
+        ' every time it successfully completed a task."',
+      ],
     ],
     [
       [
-        "\"The most important lesson I learned from FRC is that ",
+        '"The most important lesson I learned from FRC is that ',
         {},
-        " is the key to success in both robotics and life.\""
-      ]
+        ' is the key to success in both robotics and life."',
+      ],
     ],
     [
       [
@@ -545,791 +497,304 @@
         {},
         " and ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always respect your ",
+        '"The most important thing to remember when competing in FRC is to always respect your ',
         {},
         " and the ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite thing about FRC is the way it challenges us to constantly ",
         {},
-        " and push our limits.\""
-      ]
+        ' and push our limits."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always play the game with ",
+        '"The most important thing to remember when competing in FRC is to always play the game with ',
         {},
         " and never forget your ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite FRC memory is the time we finally ",
         {},
-        " and achieved our goals after months of hard work.\""
-      ]
+        ' and achieved our goals after months of hard work."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        '"The most important thing to remember when designing a robot is to always prioritize ',
         {},
         " over ",
         {},
         " and never forget the importance of ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
-        "\"The one thing that always causes problems during competition is ",
+        '"The one thing that always causes problems during competition is ',
         {},
-        " and our team's inability to handle it.\""
-      ]
+        " and our team's inability to handle it.\"",
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always be ",
+        '"The most important thing to remember when competing in FRC is to always be ',
         {},
-        " and ready for anything that comes your way.\""
-      ]
+        ' and ready for anything that comes your way."',
+      ],
     ],
     [
       [
         "\"Our team's biggest challenge is trying to balance our love for ",
         {},
-        " with the need to focus on our robot's performance.\""
-      ]
+        " with the need to focus on our robot's performance.\"",
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        '"The most important thing to remember when scouting other teams is to always pay attention to their ',
         {},
         " and how they use their ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite FRC competition moment was when we finally ",
         {},
-        " after hours of strategy discussions and hard work.\""
-      ]
+        ' after hours of strategy discussions and hard work."',
+      ],
     ],
     [
       [
-        "\"The most important lesson I learned from FRC is that ",
+        '"The most important lesson I learned from FRC is that ',
         {},
-        " is just as important as technical skill when it comes to success.\""
-      ]
+        ' is just as important as technical skill when it comes to success."',
+      ],
     ],
     [
       [
         "\"Our team's favorite FRC memory is the time we ",
         {},
-        " and bonded over a shared love of robotics.\""
-      ]
+        ' and bonded over a shared love of robotics."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always keep your ",
+        '"The most important thing to remember when competing in FRC is to always keep your ',
         {},
         " on the prize and not get distracted by ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's biggest regret from last season was not focusing enough on ",
         {},
-        " and underestimating its importance.\""
-      ]
+        ' and underestimating its importance."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when designing a robot is to always consider the ",
+        '"The most important thing to remember when designing a robot is to always consider the ',
         {},
-        " of the game and how to best optimize for it.\""
-      ]
+        ' of the game and how to best optimize for it."',
+      ],
     ],
     [
       [
         "\"Our team's favorite part of the build season is when we finally get to see our robot ",
         {},
-        " for the first time.\""
-      ]
+        ' for the first time."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always treat your ",
+        '"The most important thing to remember when competing in FRC is to always treat your ',
         {},
         " and the other teams with ",
         {},
-        " and respect.\""
-      ]
+        ' and respect."',
+      ],
     ],
     [
       [
         "\"Our team's biggest inspiration is the way that FRC has taught us to be ",
         {},
-        " and never give up, no matter how challenging things may seem.\""
-      ]
+        ' and never give up, no matter how challenging things may seem."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when scouting other teams is to always look for their ",
+        '"The most important thing to remember when scouting other teams is to always look for their ',
         {},
-        " and how they use it to their advantage.\""
-      ]
+        ' and how they use it to their advantage."',
+      ],
     ],
     [
       [
         "\"Our team's favorite FRC competition moment was when we realized that we had finally ",
         {},
-        " and were on track to meet our goals.\""
-      ]
+        ' and were on track to meet our goals."',
+      ],
     ],
     [
       [
-        "\"The most important lesson I learned from FRC is that ",
+        '"The most important lesson I learned from FRC is that ',
         {},
         " is key to success and that the greatest rewards come from ",
         {},
-        ".\""
-      ]
+        '."',
+      ],
     ],
     [
       [
         "\"Our team's favorite way to celebrate a win is to ",
         {},
-        " and let off some steam after a long day of competition.\""
-      ]
+        ' and let off some steam after a long day of competition."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always be open to ",
+        '"The most important thing to remember when competing in FRC is to always be open to ',
         {},
-        " and willing to learn from others.\""
-      ]
+        ' and willing to learn from others."',
+      ],
     ],
     [
       [
         "\"Our team's biggest mistake during competition was not taking into account the impact of ",
         {},
-        " on our robot's performance.\""
-      ]
+        " on our robot's performance.\"",
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        '"The most important thing to remember when designing a robot is to always prioritize ',
         {},
         " over ",
         {},
-        " and never lose sight of the overall goal.\""
-      ]
+        ' and never lose sight of the overall goal."',
+      ],
     ],
     [
       [
         "\"Our team's favorite FRC memory is the time we ",
         {},
-        " and felt like we had finally found our place in the FRC community.\""
-      ]
+        ' and felt like we had finally found our place in the FRC community."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when competing in FRC is to always be ",
+        '"The most important thing to remember when competing in FRC is to always be ',
         {},
-        " and ready to pivot when necessary.\""
-      ]
+        ' and ready to pivot when necessary."',
+      ],
     ],
     [
       [
         "\"Our team's biggest challenge is trying to balance the need to be ",
         {},
-        " with the need to have fun and enjoy the experience.\""
-      ]
+        ' with the need to have fun and enjoy the experience."',
+      ],
     ],
     [
       [
-        "\"The most important lesson I learned from FRC is that ",
+        '"The most important lesson I learned from FRC is that ',
         {},
         " is not just about robots, but also about the power of ",
         {},
-        " to bring people together.\""
-      ]
+        ' to bring people together."',
+      ],
     ],
     [
       [
         "\"Our team's favorite way to stay motivated during the build season is to ",
         {},
-        " and keep each other accountable for our progress.\""
-      ]
+        ' and keep each other accountable for our progress."',
+      ],
     ],
     [
       [
-        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        '"The most important thing to remember when scouting other teams is to always pay attention to their ',
         {},
-        " and how they might use it against you.\""
-      ]
+        ' and how they might use it against you."',
+      ],
     ],
-    [
-      [
-        {},
-        ", the official snack of FRC."
-      ]
-    ],
-    [
-      [
-        "When our robot broke down, we had to fix it with ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our team's secret weapon is ",
-        {},
-        {},
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "We lost the match because ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The GDC has announced a new game element: ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our robot can do everything except ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best way to motivate our team is with ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " is the most underappreciated role on the team."
-      ]
-    ],
-    [
-      [
-        "We won the match thanks to ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
+    [[{}, ", the official snack of FRC."]],
+    [["When our robot broke down, we had to fix it with ", {}, "."]],
+    [["Our team's secret weapon is ", {}, {}, {}, "."]],
+    [["We lost the match because ", {}, "."]],
+    [["The GDC has announced a new game element: ", {}, "."]],
+    [["Our robot can do everything except ", {}, "."]],
+    [["The best way to motivate our team is with ", {}, "."]],
+    [["", {}, " is the most underappreciated role on the team."]],
+    [["We won the match thanks to ", {}, "."]],
     [
       [
         "When we saw the other team's robot, we knew we were in trouble because of ",
         {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
+        ".",
+      ],
     ],
-    [
-      [
-        "",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " is the best way to make friends at a competition."
-      ]
-    ],
-    [
-      [
-        "Our team has a strict rule against ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best part of competition day is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " is the key to a successful autonomous mode."
-      ]
-    ],
-    [
-      [
-        "We were disqualified from the match because of ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our team's signature move is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most important thing we learned this season was ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " is the secret to a perfect drivetrain."
-      ]
-    ],
-    [
-      [
-        "When we're not working on the robot, we're ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The biggest challenge we faced this season was ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best way to celebrate a win is with ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our robot is designed to withstand ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "We were the only team at the competition with ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " on our robot."
-      ]
-    ],
-    [
-      [
-        "",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " is the most overrated part of FRC."
-      ]
-    ],
-    [
-      [
-        "Our team's motto is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "When we're in the pits, we always have ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " on hand."
-      ]
-    ],
-    [
-      [
-        "The worst thing that can happen during a match is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our team's spirit animal is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best thing about FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The biggest mistake we made this season was ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best way to calm our nerves before a match is to ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "We can't wait for the day when FRC robots can ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most important thing we look for in a teammate is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our robot was inspired by ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most difficult part of FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "We always pack ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        " when we go to competitions."
-      ]
-    ],
-    [
-      [
-        "The key to success in FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The worst thing about FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our team's theme song is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most important rule of FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our robot is the best at ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most embarrassing moment we had at a competition was ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The biggest misconception about FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most inspiring team we've ever played with/against is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most important lesson we've learned from FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most frustrating part of FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most important thing we bring to a competition is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The most underrated part of FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "Our team's biggest rival is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ],
-    [
-      [
-        "The best part about FRC is ",
-        {},
-        "",
-        {},
-        "",
-        {},
-        "."
-      ]
-    ]
+    [["", {}, " is the best way to make friends at a competition."]],
+    [["Our team has a strict rule against ", {}, "."]],
+    [["The best part of competition day is ", {}, "."]],
+    [["", {}, " is the key to a successful autonomous mode."]],
+    [["We were disqualified from the match because of ", {}, "."]],
+    [["Our team's signature move is ", {}, "."]],
+    [["The most important thing we learned this season was ", {}, "."]],
+    [["", {}, " is the secret to a perfect drivetrain."]],
+    [["When we're not working on the robot, we're ", {}, "."]],
+    [["The biggest challenge we faced this season was ", {}, "."]],
+    [["The best way to celebrate a win is with ", {}, "."]],
+    [["Our robot is designed to withstand ", {}, "."]],
+    [["We were the only team at the competition with ", {}, " on our robot."]],
+    [["", {}, " is the most overrated part of FRC."]],
+    [["Our team's motto is ", {}, "."]],
+    [["When we're in the pits, we always have ", {}, " on hand."]],
+    [["The worst thing that can happen during a match is ", {}, "."]],
+    [["Our team's spirit animal is ", {}, "."]],
+    [["The best thing about FRC is ", {}, "."]],
+    [["The biggest mistake we made this season was ", {}, "."]],
+    [["The best way to calm our nerves before a match is to ", {}, "."]],
+    [["We can't wait for the day when FRC robots can ", {}, "."]],
+    [["The most important thing we look for in a teammate is ", {}, "."]],
+    [["Our robot was inspired by ", {}, "."]],
+    [["The most difficult part of FRC is ", {}, "."]],
+    [["We always pack ", {}, " when we go to competitions."]],
+    [["The key to success in FRC is ", {}, "."]],
+    [["The worst thing about FRC is ", {}, "."]],
+    [["Our team's theme song is ", {}, "."]],
+    [["The most important rule of FRC is ", {}, "."]],
+    [["Our robot is the best at ", {}, "."]],
+    [["The most embarrassing moment we had at a competition was ", {}, "."]],
+    [["The biggest misconception about FRC is ", {}, "."]],
+    [["The most inspiring team we've ever played with/against is ", {}, "."]],
+    [["The most important lesson we've learned from FRC is ", {}, "."]],
+    [["The most frustrating part of FRC is ", {}, "."]],
+    [["The most important thing we bring to a competition is ", {}, "."]],
+    [["The most underrated part of FRC is ", {}, "."]],
+    [["Our team's biggest rival is ", {}, "."]],
+    [["The best part about FRC is ", {}, "."]],
   ],
-  "responses": [
+  responses: [
     "A robot that can only spin in circles.",
     "An alliance partner who always forgets to charge their batteries.",
     "A mentor who always brings up their own high school FRC experience.",
@@ -2007,6 +1472,6 @@
     "A team that always seems to come in second place",
     "A robot that uses a unique drive system",
     "A team that always plays fair and follows the rules.",
-    ""
-  ]
+    "",
+  ],
 }
