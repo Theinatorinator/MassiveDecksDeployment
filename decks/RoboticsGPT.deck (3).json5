@@ -1,0 +1,2012 @@
+{
+  "name": "RoboticsGPT",
+  "language": "en-US",
+  "author": "TheInatorInator",
+  "calls": [
+    [
+      [
+        "\"I programmed the robot to do ",
+        {},
+        " but it ended up doing ",
+        {},
+        " instead.\""
+      ]
+    ],
+    [
+      [
+        "\"When the field is too crowded, I like to hide behind the ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The secret to winning FRC is to have a really good ",
+        {},
+        " and a really good ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"When the robot breaks down during a match, the best thing to do is ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The judges were impressed with our robot's ability to ",
+        {},
+        " but didn't like that it couldn't ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's motto is ",
+        {},
+        ", ",
+        {},
+        ", and ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important tool in the pit is ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"When the mentor isn't looking, the students like to ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our robot's nickname is ",
+        {},
+        " because it always ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"We lost the match because we didn't account for the ",
+        {},
+        " factor.\""
+      ]
+    ],
+    [
+      [
+        "\"During the build season, our team sustains itself on a steady diet of ",
+        {},
+        " and ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"My favorite robot design is one that can ",
+        {},
+        " and ",
+        {},
+        " at the same time.\""
+      ]
+    ],
+    [
+      [
+        "\"At competition, our team's good luck charm is always ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The team member who always forgets to bring ",
+        {},
+        " to competition is ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"I'll never forget the time our robot got stuck on the field because of ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most challenging part of the FRC game is mastering the ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest rival is known for their impressive ",
+        {},
+        " but also their tendency to ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our robot was designed to withstand ",
+        {},
+        " but we didn't account for ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important rule in the pit is to always have ",
+        {},
+        " handy.\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot could speak, it would probably say ",
+        {},
+        " every time we tested it.\""
+      ]
+    ],
+    [
+      [
+        "\"The highlight of our robot's performance was when it successfully ",
+        {},
+        " and ",
+        {},
+        " in one match.\""
+      ]
+    ],
+    [
+      [
+        "\"I can always tell when a team is new to FRC because they always forget to ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"When our robot gets damaged during a match, we always turn to ",
+        {},
+        " to fix it.\""
+      ]
+    ],
+    [
+      [
+        "\"The most embarrassing thing that ever happened to me at competition was when I ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "\"Our team's secret weapon is our ability to ",
+        {},
+        " better than any other team.\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot could talk, it would probably complain about how much it hates ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The best way to motivate our team during a competition is to promise us ",
+        {},
+        " after we win.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest weakness is our inability to properly ",
+        {},
+        " our robot.\""
+      ]
+    ],
+    [
+      [
+        "\"The worst thing that ever happened to me at competition was when I accidentally ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our robot's biggest flaw is that it always seems to ",
+        {},
+        " at the worst possible moment.\""
+      ]
+    ],
+    [
+      [
+        "\"The hardest thing about being an FRC mentor is dealing with the students' constant questions about ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"During the build season, we spend more time arguing about ",
+        {},
+        " than we do actually building the robot.\""
+      ]
+    ],
+    [
+      [
+        "\"The most satisfying feeling in FRC is when you successfully ",
+        {},
+        " on the first try.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite pre-competition ritual is to ",
+        {},
+        " together as a team.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        {},
+        " over ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest strength is our ability to quickly ",
+        {},
+        " our robot on the fly.\""
+      ]
+    ],
+    [
+      [
+        "\"The most exciting moment during an FRC match is when you successfully ",
+        {},
+        " with only seconds left on the clock.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's unofficial slogan is ",
+        {},
+        " because we're always trying to ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The one thing I wish I could change about the FRC game is ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"When our robot's battery dies during a match, we always blame it on ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The best thing about FRC is the feeling you get when you finally ",
+        {},
+        " after weeks of hard work.\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot could have any superpower, it would definitely be the ability to ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest strength is also our biggest weakness, which is our tendency to always ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"During the off-season, our team likes to ",
+        {},
+        " to keep our skills sharp.\""
+      ]
+    ],
+    [
+      [
+        "\"The most annoying thing about FRC is when teams always try to ",
+        {},
+        " instead of just playing the game.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest achievement was when we successfully ",
+        {},
+        " and won the competition.\""
+      ]
+    ],
+    [
+      [
+        "\"The one thing I wish I knew before I started FRC was how much time I would spend on ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The best way to get a good score in FRC is to focus on ",
+        {},
+        " and ignore ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember during a match is to always ",
+        {},
+        " and never ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's secret to success is our ability to always ",
+        {},
+        " under pressure.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important lesson I learned from FRC is that ",
+        {},
+        " is more important than anything else.\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot could have a catchphrase, it would definitely be ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest rival is always trying to one-up us by ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when working on the robot is to always check the ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest regret was not being able to ",
+        {},
+        " during a crucial match.\""
+      ]
+    ],
+    [
+      [
+        "\"The hardest thing about FRC is trying to balance ",
+        {},
+        " and ",
+        {},
+        " while also building a robot.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always have ",
+        {},
+        " and never run out of ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot was a character from a TV show, it would definitely be ",
+        {},
+        " from ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite part of FRC is when we get to ",
+        {},
+        " during the off-season.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when working on the robot is to always wear ",
+        {},
+        " and never forget your ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when designing a robot is to always consider the ",
+        {},
+        " of the game.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest challenge is trying to overcome our tendency to always ",
+        {},
+        " when things get tough.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always communicate with your ",
+        {},
+        " and trust your ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The one thing I wish I could tell all FRC rookies is to never underestimate the power of ",
+        {},
+        " when designing a robot.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when scouting other teams is to always look for their ",
+        {},
+        " and how they ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite way to unwind after a competition is to ",
+        {},
+        " and talk about all the things we learned.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when building a robot is to always focus on ",
+        {},
+        " and never get distracted by ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"If our robot could talk, it would definitely say ",
+        {},
+        " every time it successfully completed a task.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important lesson I learned from FRC is that ",
+        {},
+        " is the key to success in both robotics and life.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest inspiration is the way that FRC has brought us all together to work on something ",
+        {},
+        " and ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always respect your ",
+        {},
+        " and the ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite thing about FRC is the way it challenges us to constantly ",
+        {},
+        " and push our limits.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always play the game with ",
+        {},
+        " and never forget your ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite FRC memory is the time we finally ",
+        {},
+        " and achieved our goals after months of hard work.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        {},
+        " over ",
+        {},
+        " and never forget the importance of ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"The one thing that always causes problems during competition is ",
+        {},
+        " and our team's inability to handle it.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always be ",
+        {},
+        " and ready for anything that comes your way.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest challenge is trying to balance our love for ",
+        {},
+        " with the need to focus on our robot's performance.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        {},
+        " and how they use their ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite FRC competition moment was when we finally ",
+        {},
+        " after hours of strategy discussions and hard work.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important lesson I learned from FRC is that ",
+        {},
+        " is just as important as technical skill when it comes to success.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite FRC memory is the time we ",
+        {},
+        " and bonded over a shared love of robotics.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always keep your ",
+        {},
+        " on the prize and not get distracted by ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest regret from last season was not focusing enough on ",
+        {},
+        " and underestimating its importance.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when designing a robot is to always consider the ",
+        {},
+        " of the game and how to best optimize for it.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite part of the build season is when we finally get to see our robot ",
+        {},
+        " for the first time.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always treat your ",
+        {},
+        " and the other teams with ",
+        {},
+        " and respect.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest inspiration is the way that FRC has taught us to be ",
+        {},
+        " and never give up, no matter how challenging things may seem.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when scouting other teams is to always look for their ",
+        {},
+        " and how they use it to their advantage.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite FRC competition moment was when we realized that we had finally ",
+        {},
+        " and were on track to meet our goals.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important lesson I learned from FRC is that ",
+        {},
+        " is key to success and that the greatest rewards come from ",
+        {},
+        ".\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite way to celebrate a win is to ",
+        {},
+        " and let off some steam after a long day of competition.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always be open to ",
+        {},
+        " and willing to learn from others.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest mistake during competition was not taking into account the impact of ",
+        {},
+        " on our robot's performance.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when designing a robot is to always prioritize ",
+        {},
+        " over ",
+        {},
+        " and never lose sight of the overall goal.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite FRC memory is the time we ",
+        {},
+        " and felt like we had finally found our place in the FRC community.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when competing in FRC is to always be ",
+        {},
+        " and ready to pivot when necessary.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's biggest challenge is trying to balance the need to be ",
+        {},
+        " with the need to have fun and enjoy the experience.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important lesson I learned from FRC is that ",
+        {},
+        " is not just about robots, but also about the power of ",
+        {},
+        " to bring people together.\""
+      ]
+    ],
+    [
+      [
+        "\"Our team's favorite way to stay motivated during the build season is to ",
+        {},
+        " and keep each other accountable for our progress.\""
+      ]
+    ],
+    [
+      [
+        "\"The most important thing to remember when scouting other teams is to always pay attention to their ",
+        {},
+        " and how they might use it against you.\""
+      ]
+    ],
+    [
+      [
+        {},
+        ", the official snack of FRC."
+      ]
+    ],
+    [
+      [
+        "When our robot broke down, we had to fix it with ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our team's secret weapon is ",
+        {},
+        {},
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "We lost the match because ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The GDC has announced a new game element: ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our robot can do everything except ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best way to motivate our team is with ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " is the most underappreciated role on the team."
+      ]
+    ],
+    [
+      [
+        "We won the match thanks to ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "When we saw the other team's robot, we knew we were in trouble because of ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " is the best way to make friends at a competition."
+      ]
+    ],
+    [
+      [
+        "Our team has a strict rule against ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best part of competition day is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " is the key to a successful autonomous mode."
+      ]
+    ],
+    [
+      [
+        "We were disqualified from the match because of ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our team's signature move is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most important thing we learned this season was ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " is the secret to a perfect drivetrain."
+      ]
+    ],
+    [
+      [
+        "When we're not working on the robot, we're ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The biggest challenge we faced this season was ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best way to celebrate a win is with ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our robot is designed to withstand ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "We were the only team at the competition with ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " on our robot."
+      ]
+    ],
+    [
+      [
+        "",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " is the most overrated part of FRC."
+      ]
+    ],
+    [
+      [
+        "Our team's motto is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "When we're in the pits, we always have ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " on hand."
+      ]
+    ],
+    [
+      [
+        "The worst thing that can happen during a match is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our team's spirit animal is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best thing about FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The biggest mistake we made this season was ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best way to calm our nerves before a match is to ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "We can't wait for the day when FRC robots can ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most important thing we look for in a teammate is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our robot was inspired by ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most difficult part of FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "We always pack ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        " when we go to competitions."
+      ]
+    ],
+    [
+      [
+        "The key to success in FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The worst thing about FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our team's theme song is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most important rule of FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our robot is the best at ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most embarrassing moment we had at a competition was ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The biggest misconception about FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most inspiring team we've ever played with/against is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most important lesson we've learned from FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most frustrating part of FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most important thing we bring to a competition is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The most underrated part of FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Our team's biggest rival is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "The best part about FRC is ",
+        {},
+        "",
+        {},
+        "",
+        {},
+        "."
+      ]
+    ]
+  ],
+  "responses": [
+    "A robot that can only spin in circles.",
+    "An alliance partner who always forgets to charge their batteries.",
+    "A mentor who always brings up their own high school FRC experience.",
+    "A strategy that involves playing defense the entire match.",
+    "A broken elevator mechanism.",
+    "A scouting report that is completely inaccurate.",
+    "A robot that breaks down right before the match starts.",
+    "An FRC rule that nobody understands.",
+    "A poorly timed robot upgrade.",
+    "A team that always has the loudest pit area.",
+    "A scout who only cares about stats and not actual robot performance.",
+    "A driver who can never seem to avoid penalties.",
+    "A robot that can barely move.",
+    "A team that always wears ridiculous hats to competitions.",
+    "A strategy that involves sacrificing ranking points for playoff success.",
+    "A team that always shows up late to their matches.",
+    "A mentor who is always yelling at the students.",
+    "A robot that is too heavy and can't climb.",
+    "A strategy that involves only scoring in the low goal.",
+    "A team that always brings way too much gear to competitions.",
+    "A robot that is too small and can't reach the high goal.",
+    "An alliance partner who always seems to get in the way.",
+    "A team that always has the messiest pit area.",
+    "A strategy that involves relying on luck rather than skill.",
+    "A robot that is so complicated that nobody on the team knows how to fix it.",
+    "A mentor who always tries to do everything themselves.",
+    "A robot that can't seem to stop tipping over.",
+    "A team that always wears matching tie-dye shirts to competitions.",
+    "A strategy that involves only playing defense and not scoring any points.",
+    "A team that always forgets to pack essential tools and parts for the competition.",
+    "A pile of bent metal and broken dreams.",
+    "A perfectly executed autonomous routine.",
+    "An alliance captain who is somehow even worse than their third pick.",
+    "A robot with more zip ties than actual parts.",
+    "A mentor who takes over the entire design process.",
+    "A field reset volunteer who has clearly never touched a robot in their life.",
+    "A failed attempt at a swerve drive.",
+    "A perfectly placed hatch panel.",
+    "A scout who takes their job way too seriously.",
+    "A robot that only moves in circles.",
+    "A drive team that can't agree on anything.",
+    "A team that insists on playing defense despite having no business doing so.",
+    "A well-timed power-up that turns the match around.",
+    "A rookie team that surprises everyone with their robot's performance.",
+    "A robot that falls apart as soon as the match starts.",
+    "A driver who panics and hits the wrong button.",
+    "A strategic timeout that ends up being a waste of time.",
+    "A robot with way too much weight in the wrong places.",
+    "A scouting report that turns out to be completely inaccurate.",
+    "A missed opportunity to climb and earn extra points.",
+    "A robot that can't quite make it up the ramp.",
+    "A team that consistently breaks every rule in the book.",
+    "A robot that is constantly on fire.",
+    "An alliance partner who doesn't know how to drive their robot.",
+    "A strategy that involves only playing offense and ignoring defense.",
+    "A scouting report that is overly optimistic about a team's abilities.",
+    "A mentor who constantly micromanages the robot build process.",
+    "A robot that always seems to get stuck on the field elements.",
+    "A team that always forgets to put bumpers on their robot.",
+    "A strategy that involves only playing defense and blocking the opposing alliance.",
+    "A mentor who constantly complains about the rules.",
+    "A robot that is so slow it can barely move.",
+    "A team that always brings a full-sized tool chest to competitions.",
+    "A scouting report that completely misses a team's strengths and weaknesses.",
+    "A driver who is constantly crashing into the field elements.",
+    "A robot that is constantly losing parts during the match.",
+    "A team that always brings way too much food to competitions.",
+    "A strategy that involves relying on one specific robot for all scoring.",
+    "A mentor who always takes credit for the team's successes.",
+    "A robot that always seems to break down in the same way.",
+    "A team that always wears matching neon green shirts to competitions.",
+    "A strategy that involves only scoring in autonomous mode.",
+    "A robot that is so light it gets pushed around by other robots.",
+    "A mentor who constantly makes the students do all the work.",
+    "A team that always forgets to bring spare parts to competitions.",
+    "A strategy that involves constantly changing the robot's design.",
+    "A robot that is so noisy it disturbs the entire competition venue.",
+    "A mentor who always favors certain students over others.",
+    "A team that always wears matching superhero costumes to competitions.",
+    "A strategy that involves playing both offense and defense simultaneously.",
+    "A robot that is constantly flipping over.",
+    "A team that always brings a full-sized couch to competitions.",
+    "A strategy that involves only playing in the endgame.",
+    "A robot that is constantly getting caught on the field elements.",
+    "A mentor who always takes over during the competition matches.",
+    "A team that always brings a full-sized banner to competitions.",
+    "A strategy that involves relying on a single function of the robot for all scoring.",
+    "A robot that is so tall it can't fit under the low bar.",
+    "A team that always wears matching animal onesies to competitions.",
+    "A strategy that involves only playing offense in the first half of the match.",
+    "A robot that is so complex that it takes the entire competition to get it working.",
+    "A team that always brings a full-sized grill to competitions.",
+    "A strategy that involves only playing defense in the first half of the match.",
+    "A robot that is so heavy it can barely move.",
+    "A mentor who always uses outdated techniques in the robot build process.",
+    "A team that always forgets to bring their robot's battery charger to competitions.",
+    "A strategy that involves constantly changing the robot's programming.",
+    "A robot that is so fragile that it breaks down after every match.",
+    "A team that always brings a full-sized mascot costume to competitions.",
+    "A strategy that involves only playing defense in the second half of the match.",
+    "A robot that is so slow in autonomous",
+    "A mentor who always insists on using outdated technology.",
+    "A team that always wears matching Hawaiian shirts to competitions.",
+    "A strategy that involves constantly tipping over the opposing alliance's robots.",
+    "A robot that is constantly getting stuck on the field perimeter.",
+    "A team that always forgets to charge their robot's battery before a match.",
+    "A scouting report that is completely inaccurate about a team's abilities.",
+    "A strategy that involves only playing offense in the second half of the match.",
+    "A mentor who always insists on using the same design every year.",
+    "A team that always brings a full-sized cardboard cutout of their robot to competitions.",
+    "A strategy that involves constantly bumping the opposing alliance's robots.",
+    "A robot that is constantly getting entangled in the field elements.",
+    "A team that always forgets to bring their safety glasses to competitions.",
+    "A scouting report that is overly pessimistic about a team's abilities.",
+    "A strategy that involves constantly blocking the opposing alliance's robots.",
+    "A mentor who always insists on using non-standard parts in the robot build process.",
+    "A team that always brings a full-sized beanbag chair to competitions.",
+    "A strategy that involves constantly interfering with the opposing alliance's robots.",
+    "A robot that is constantly running into its own alliance's robots.",
+    "A team that always forgets to bring their robot's bumpers to competitions.",
+    "A scouting report that is completely biased towards a particular team.",
+    "A strategy that involves constantly pushing the opposing alliance's robots out of the way.",
+    "A mentor who always insists on doing all the work themselves.",
+    "A team that always brings a full-sized tent to competitions.",
+    "A strategy that involves constantly slowing down the opposing alliance's robots.",
+    "A robot that is constantly interfering with its own alliance's robots.",
+    "A team that always forgets to bring their robot's control system to competitions.",
+    "A scouting report that is completely outdated and irrelevant.",
+    "A strategy that involves constantly blocking the opposing alliance's human player.",
+    "A mentor who always insists on using the same programming every year.",
+    "A team that always brings a full-sized TV to competitions.",
+    "A robot that consistently breaks down during every match.",
+    "A team that always wears outrageous costumes to competitions.",
+    "A strategy that involves sacrificing a robot to distract the opposing alliance.",
+    "A mentor who always insists on staying up all night to finish the robot build.",
+    "A team that always forgets to bring spare parts to competitions.",
+    "A scouting report that is completely wrong about the opposing alliance's abilities.",
+    "A strategy that involves constantly stealing the opposing alliance's game pieces.",
+    "A robot that consistently flips over during every match.",
+    "A team that always forgets to bring their pit crew tools to competitions.",
+    "A strategy that involves constantly fouling the opposing alliance.",
+    "A mentor who always insists on using duct tape to fix everything.",
+    "A team that always brings a full-sized mascot costume to competitions.",
+    "A scouting report that is completely biased against a particular team.",
+    "A strategy that involves constantly blocking the opposing alliance's view of the field.",
+    "A robot that consistently misses all its shots during every match.",
+    "A team that always forgets to bring their robot's bumpers to inspection.",
+    "A strategy that involves constantly pushing the opposing alliance's game pieces out of the way.",
+    "A mentor who always insists on using overly complicated mechanisms.",
+    "A team that always brings a full-sized pool table to competitions.",
+    "A scouting report that is completely clueless about the opposing alliance's abilities.",
+    "A strategy that involves constantly tipping over the opposing alliance's game pieces.",
+    "A robot that consistently runs into the field elements during every match.",
+    "A team that always forgets to bring their robot's wiring diagram to competitions.",
+    "A strategy that involves constantly trapping the opposing alliance's robots.",
+    "A mentor who always insists on using a slide rule to calculate robot performance.",
+    "A team that always brings a full-sized air mattress to competitions.",
+    "A scouting report that is completely fabricated and full of lies.",
+    "A strategy that involves constantly distracting the opposing alliance's human player.",
+    "A robot that consistently gets lost on the field during every match.",
+    "A team that always forgets to bring their robot's power cord to competitions.",
+    "A team that always forgets to bring their driver's station to competitions.",
+    "A strategy that involves constantly faking out the opposing alliance's robots.",
+    "A mentor who always insists on wearing a Hawaiian shirt to competitions.",
+    "A team that always brings a full-sized hammock to competitions.",
+    "A scouting report that is completely inaccurate about the opposing alliance's strengths and weaknesses.",
+    "A strategy that involves constantly playing defense and not scoring any points.",
+    "A robot that consistently gets stuck on the field during every match.",
+    "A team that always forgets to bring their robot's control system to competitions.",
+    "A strategy that involves constantly interfering with the opposing alliance's robots.",
+    "A mentor who always insists on using hand-written code instead of computer programming.",
+    "A team that always brings a full-sized bean bag chair to competitions.",
+    "A scouting report that is completely biased in favor of a particular team.",
+    "A strategy that involves constantly bumping the opposing alliance's robots.",
+    "A robot that consistently has communication problems during every match.",
+    "A team that always forgets to bring their robot's battery charger to competitions.",
+    "A strategy that involves constantly blocking the opposing alliance's robots from reaching their game pieces.",
+    "A mentor who always insists on using outdated technology.",
+    "A team that always brings a full-sized barbecue grill to competitions.",
+    "A scouting report that is completely focused on one particular robot on the opposing alliance.",
+    "A strategy that involves constantly knocking over the opposing alliance's robots.",
+    "A robot that consistently loses control during every match.",
+    "A team that always forgets to bring their robot's pneumatic system to competitions.",
+    "A strategy that involves constantly pushing the opposing alliance's robots out of the way.",
+    "A mentor who always insists on using an abacus to calculate robot performance.",
+    "A team that always brings a full-sized inflatable pool to competitions.",
+    "A scouting report that is completely plagiarized from another team's report.",
+    "A strategy that involves constantly distracting the opposing alliance's drive team.",
+    "A robot that consistently trips over its own game pieces during every match.",
+    "A team that always forgets to bring their robot's bumpers to competitions.",
+    "A strategy that involves constantly flipping over the opposing alliance's robots.",
+    "A mentor who always insists on using a typewriter to document the robot build.",
+    "A team that always brings a full-sized tent to competitions.",
+    "A scouting report that is completely made up and has no basis in reality.",
+    "A strategy that involves constantly stealing the opposing alliance's game pieces.",
+    "A robot that consistently gets stuck on the field elements during every match.",
+    "A team that always forgets to bring their robot's tool kit to competitions.",
+    "A strategy that involves constantly fouling the opposing alliance's robots.",
+    "A mentor who always insists on using a slide rule to calculate robot performance.",
+    "A team that always brings a full-sized massage chair to competitions.",
+    "A scouting report that is completely focused on the opposing alliance's weaknesses.",
+    "A strategy that involves constantly tipping over the opposing alliance's robots.",
+    "A robot that consistently misses all its shots during every match.",
+    "A team that always forgets to bring their robot's battery to competitions.",
+    "A strategy that involves constantly blocking the opposing alliance's view of the field.",
+    "A robot that can't drive straight and always veers off course.",
+    "A team that has an entire pit dedicated to serving cookies and other baked goods.",
+    "A scouting report that only focuses on the opposing alliance's team colors.",
+    "A strategy that involves constantly throwing game pieces at the opposing alliance's robots.",
+    "A mentor who always insists on wearing a hat that's way too small for their head.",
+    "A team that always forgets to bring their robot controller to competitions.",
+    "A robot that always gets stuck on the field and has to be rescued by the referees.",
+    "A scouting report that only focuses on the opposing alliance's team mascot.",
+    "A strategy that involves constantly spinning around in circles to confuse the opposing alliance.",
+    "A mentor who always insists on using a megaphone to communicate with the team.",
+    "A team that always brings a giant inflatable dinosaur to competitions.",
+    "A robot that consistently malfunctions and shoots game pieces in random directions.",
+    "A scouting report that only focuses on the opposing alliance's team slogan.",
+    "A strategy that involves constantly playing loud music to distract the opposing alliance.",
+    "A mentor who always insists on wearing socks with sandals to competitions.",
+    "A team that always forgets to charge their robot's batteries before a match.",
+    "A robot that constantly gets stuck on the field obstacles.",
+    "A scouting report that only focuses on the opposing alliance's team chant.",
+    "A strategy that involves constantly throwing game pieces out of the field to confuse the opposing alliance.",
+    "A mentor who always insists on wearing a cape to competitions.",
+    "A team that always brings a life-size cutout of their team captain to competitions.",
+    "A robot that consistently shoots game pieces in the wrong direction.",
+    "A scouting report that only focuses on the opposing alliance's team flag.",
+    "A strategy that involves constantly yelling at the opposing alliance's robots.",
+    "A mentor who always insists on wearing a tutu to competitions.",
+    "A team that always forgets to pack their tools and spare parts to competitions.",
+    "A robot that constantly gets stuck on the scoring platforms.",
+    "A scouting report that only focuses on the opposing alliance's team t-shirts.",
+    "A strategy that involves constantly doing wheelies to show off to the opposing alliance.",
+    "A mentor who always insists on wearing a sombrero to competitions.",
+    "A team that always brings a large blow-up flamingo to competitions.",
+    "A robot that constantly tips over during matches.",
+    "A scouting report that only focuses on the opposing alliance's team hats.",
+    "A strategy that involves constantly driving backwards to confuse the opposing alliance.",
+    "A mentor who always insists on wearing a fake mustache to competitions.",
+    "A team that always forgets to bring safety glasses to competitions.",
+    "A robot that consistently misses the game pieces it tries to pick up.",
+    "A scouting report that only focuses on the opposing alliance's team shoes.",
+    "A strategy that involves constantly doing donuts to intimidate the opposing alliance.",
+    "A mentor who always insists on wearing a top hat to competitions.",
+    "A team that always brings a giant inflatable pool to competitions.",
+    "A robot that consistently gets stuck in the field barriers.",
+    "A scouting report that only focuses on the opposing alliance's team jackets.",
+    "Buttons",
+    "Wrench",
+    "Tape measure",
+    "Safety glasses",
+    "Zip ties",
+    "Joystick",
+    "Bumper",
+    "Battery",
+    "Screwdriver",
+    "Drill",
+    "Wheels",
+    "Gearbox",
+    "Pulley",
+    "Chain",
+    "Sprocket",
+    "Camera",
+    "Radio",
+    "LED lights",
+    "Limit switch",
+    "Encoder",
+    "Relay",
+    "Pneumatics",
+    "Microcontroller",
+    "Motor controller",
+    "Servo",
+    "Solenoid",
+    "Pressure regulator",
+    "Circuit breaker",
+    "Sensor",
+    "Omni wheels",
+    "Axle",
+    "Caster",
+    "Clamps",
+    "Gears",
+    "Drill bits",
+    "Fasteners",
+    "Glue gun",
+    "Hardware",
+    "Hex key",
+    "Latches",
+    "Linear slides",
+    "Magnets",
+    "Nuts",
+    "Plugs",
+    "Pulleys",
+    "Rivets",
+    "Screws",
+    "Springs",
+    "Standoffs",
+    "Swerve drive",
+    "Tensioners",
+    "Actuators",
+    "Adhesives",
+    "Bearings blocks",
+    "Cable ties",
+    "Cap screws",
+    "Carriage bolts",
+    "Chain breaker",
+    "Clips",
+    "Connectors",
+    "Cotter pins",
+    "Delrin",
+    "Diffusers",
+    "Drive gears",
+    "Electrical tape",
+    "End mills",
+    "Eye bolts",
+    "Flange bearings",
+    "Flange nuts",
+    "Flanges",
+    "Flat washers",
+    "Gears",
+    "Grippers",
+    "Heat sinks",
+    "Heli-coils",
+    "Idler wheels",
+    "Jaw couplings",
+    "Keystock",
+    "Lathe",
+    "Lock nuts",
+    "Lock washers",
+    "Machine screws",
+    "Nylon spacers",
+    "Oilite bearings",
+    "Pillow block bearings",
+    "Pins",
+    "Pipe fittings",
+    "Plaques",
+    "Power supply",
+    "Push rods",
+    "Quick connects",
+    "Ratchet wrenches",
+    "Rigid couplings",
+    "Rod ends",
+    "Roll pins",
+    "Safety wire",
+    "Shaft collars",
+    "Shaft keys",
+    "Shaft supports",
+    "Shear pins",
+    "Shims",
+    "Broken lift mechanism",
+    "Dead battery backup",
+    "Bent frame rails",
+    "Fried motor controller",
+    "Twisted shaft coupling",
+    "Dislodged bumper mount",
+    "Burned out LEDs",
+    "Lost programming cable",
+    "Overheated gearbox",
+    "Missing C-channel",
+    "Jammed pneumatic valve",
+    "Stripped screw head",
+    "Broken encoder disc",
+    "Cracked polycarbonate panel",
+    "Stuck limit switch",
+    "Dead servo motor",
+    "Rusted chain links",
+    "Shorted power cable",
+    "Leaking pneumatic cylinder",
+    "Loose set screw",
+    "Worn out drive belts",
+    "Misaligned pulley",
+    "Melted wiring harness",
+    "Warped chassis plate",
+    "Frayed ribbon cable",
+    "Jammed conveyor belt",
+    "Snapped ball bearings",
+    "Stripped thread inserts",
+    "Damaged drive shaft",
+    "Cracked motor mount",
+    "Dead servo horn",
+    "Corroded battery terminals",
+    "Stuck omni wheel",
+    "Blown fuse",
+    "Broken shaft collar",
+    "Jammed chain tensioner",
+    "Fried radio modem",
+    "Shorted motor wires",
+    "Cracked gearbox housing",
+    "Stripped hex key",
+    "Loose sprocket bolts",
+    "Clogged pneumatic tubing",
+    "Broken linkages",
+    "Disconnected encoder cable",
+    "Worn out pneumatic seal",
+    "Bent drive axle",
+    "Stuck gear rack",
+    "Damaged pinion gear",
+    "Bent elevator carriage",
+    "Ripped conveyor belt",
+    "Mangled sheet metal",
+    "Disintegrated drive tire",
+    "Displaced bearing block",
+    "Unseated pneumatic fitting",
+    "Burned out solenoid valve",
+    "Faulty limit switch",
+    "Damaged cam follower",
+    "Cracked spool mount",
+    "Stuck coupler",
+    "Dead voltage regulator",
+    "Broken Robot Again",
+    "Dancing with the Robot",
+    "Robotic Armageddon",
+    "Tech Support Nightmares",
+    "Code Red Panic",
+    "Scout or Die",
+    "Drive Team Shenanigans",
+    "Pit Crew Pranks",
+    "Announcer Mishaps",
+    "Battery Swap Mix-Up",
+    "Field Reset Fiasco",
+    "Robot Rampage",
+    "Game Piece Chaos",
+    "Lost in the Stands",
+    "Field Trip Failures and Mishaps",
+    "Robot Rebellion Rampage",
+    "Game Piece Frenzy and Chaos",
+    "The Pit Crew's Wrenching Woes",
+    "The Programmer's Code Catastrophe",
+    "The Drive Team's Strategy Struggles",
+    "The Scout Team's Scouting Snafus",
+    "The Mentor's Misguided Motivation",
+    "The Announcer's Awkward Announcements",
+    "The Referee's Ruling Ruckus",
+    "The Battery's Sudden Death",
+    "The Field's Frantic Reset",
+    "The Match's Epic Fail",
+    "The Alliance's Awkward Interaction",
+    "The Robot's Unexpected Move",
+    "The Inspection's Intense Investigation",
+    "The Queue's Quirky Quandary",
+    "The Safety's Strict Standards",
+    "The Practice's Pathetic Performance",
+    "The Auton's Annoying Anomaly",
+    "The Endgame's Exhilarating Excitement",
+    "The Foul's Frenzied Fiasco",
+    "The Power Cell's Problematic Placement",
+    "The Climb's Catastrophic Collapse",
+    "Referees who need glasses",
+    "Robot throwing tantrums",
+    "Autonomous mode disasters",
+    "Rookie team spirit",
+    "Alliance strategy meetings",
+    "Field reset volunteers",
+    "Robot battery meltdowns",
+    "Drive team dance parties",
+    "High-flying robot arms",
+    "Tipping point chaos",
+    "Pit crew caffeine addiction",
+    "Robot brain farts",
+    "Intense elimination matches",
+    "Scouting app crashes",
+    "Creative use of duct tape",
+    "Winning robot selfies",
+    "Pit scouting conversations",
+    "Broken gearbox nightmares",
+    "Field barrier collisions",
+    "Power Cell hoarding",
+    "Precision autonomous driving",
+    "Pit admin headaches",
+    "Field reset teamwork",
+    "Alliance selection strategies",
+    "Endgame scoring excitement",
+    "Robot mascot shenanigans",
+    "Pit scouting notes",
+    "Driver station microphone issues",
+    "Broken climber cables",
+    "Practice match chaos",
+    "Epic robot fails",
+    "Pit scouting reports",
+    "Last-minute robot repairs",
+    "Field barrier repairs",
+    "Rookie team nerves",
+    "Overheated motor panic",
+    "Team spirit parades",
+    "Robot communication errors",
+    "Autonomous mode triumphs",
+    "Field crew power struggles",
+    "Robot bumpers falling off",
+    "Scouting data overload",
+    "Drive team disagreements",
+    "Battery charging frenzy",
+    "Referee controversy",
+    "Robot driver jitters",
+    "Pit admin paperwork",
+    "Field reset equipment failure",
+    "Power Cell launching mishaps",
+    "Alliance captain stress",
+    "Questionable ref calls",
+    "Robot rule-breaking strategies",
+    "Intense alliance rivalries",
+    "Scouting misinformation tactics",
+    "Controversial alliance selections",
+    "Robot sabotage accusations",
+    "Power Cell tampering suspicions",
+    "Rulebook loopholes exploited",
+    "Creative interpretation of rules",
+    "Intentional penalties drawn",
+    "Last-minute strategy shifts",
+    "Secret robot designs",
+    "Intimidating robot appearances",
+    "Bold rule violations",
+    "Close-call referee decisions",
+    "Edgy team slogans",
+    "Trash-talking in the pits",
+    "Risky game moves",
+    "Controversial bumper designs",
+    "Provocative robot names",
+    "Inappropriate dance moves",
+    "Edgy pit decorations",
+    "Provocative robot costumes",
+    "Clever rulebook interpretations",
+    "Aggressive drive team attitudes",
+    "Provocative robot maneuvers",
+    "Controversial robot modifications",
+    "Edgy team cheers",
+    "Rulebook bending techniques",
+    "Provocative pit posters",
+    "Risky alliance selections",
+    "Bold robot designs",
+    "Unorthodox robot tactics",
+    "Edgy team mascots",
+    "Creative rulebook interpretations",
+    "Controversial scouting methods",
+    "Risky autonomous strategies",
+    "Provocative pit banners",
+    "Edgy alliance celebrations",
+    "Intentional robot malfunctions",
+    "Inappropriate robot graphics",
+    "Controversial robot behaviors",
+    "Edgy team merchandise",
+    "Provocative pit displays",
+    "Bold scouting reports",
+    "Risky endgame tactics",
+    "Unconventional robot materials",
+    "Aggressive team logos",
+    "Intentional power cell interference",
+    "Provocative drive team outfits",
+    "Intense robot-on-field interactions.",
+    "Risky robot maneuvering",
+    "Provocative pit decorations",
+    "Edgy robot sound effects",
+    "Controversial game strategies",
+    "Inappropriate robot dance moves",
+    "Bold robot modifications",
+    "Creative robot sabotage tactics",
+    "Intimidating drive team gestures",
+    "Provocative rulebook interpretations",
+    "Questionable alliance formations",
+    "Edgy team chants",
+    "Risky scouting reports",
+    "Controversial robot communication methods",
+    "Intense robot-on-robot collisions",
+    "Provocative robot soundtracks",
+    "Creative robot rule exploitation",
+    "Inappropriate robot accessories",
+    "Bold robot functionality",
+    "Clever scouting deceptions",
+    "Edgy alliance hand signals",
+    "Risky endgame maneuvers",
+    "Provocative robot animations",
+    "Unconventional robot designs",
+    "Intimidating robot features",
+    "Controversial robot programming techniques",
+    "Inappropriate team gestures",
+    "Edgy robot personalities",
+    "Bold robot appearances",
+    "Provocative pit signs",
+    "Risky alliance strategies",
+    "Creative robot modifications",
+    "Intense team rivalries",
+    "Provocative robot attachments",
+    "Controversial game rule interpretations",
+    "Inappropriate robot slogans",
+    "Edgy scouting techniques",
+    "Bold team costumes",
+    "Clever game rule loopholes",
+    "Risky robot speed",
+    "Provocative robot behaviors",
+    "Unorthodox game strategies",
+    "Intimidating robot weapons",
+    "Controversial robot defense tactics",
+    "Inappropriate team attire",
+    "Edgy robot weaponry",
+    "Bold alliance decisions",
+    "Provocative game-day rituals",
+    "Risky autonomous maneuvers",
+    "Creative pit displays",
+    "A pit full of empty pizza boxes",
+    "Robot parts scattered everywhere",
+    "A robot with a blown fuse",
+    "A coach yelling from the sidelines",
+    "A malfunctioning robot arm",
+    "A broken field element",
+    "A team captain giving a motivational speech",
+    "A team mascot cheering from the stands",
+    "A robot caught on the field perimeter",
+    "A student feverishly coding last-minute changes",
+    "A referee making a controversial call",
+    "A drive team member getting too aggressive",
+    "A robot tripping over its own wheels",
+    "A team member struggling to carry a heavy battery",
+    "A driver accidentally knocking over a game piece",
+    "A team celebrating a hard-earned victory",
+    "A robot missing a crucial part",
+    "A team scrambling to fix a broken robot",
+    "A coach giving a stern pep talk",
+    "A robot expertly completing a difficult task",
+    "A team member handing out flyers",
+    "A robot struggling to climb a ramp",
+    "A student nervously giving a presentation",
+    "A robot expertly maneuvering around obstacles",
+    "A team building a makeshift repair station",
+    "A robot doing a victory dance",
+    "A team competing in the finals",
+    "A driver skillfully dodging defense",
+    "A team member handing out free buttons",
+    "A robot barely making it across the finish line",
+    "A team hosting a fundraiser",
+    "A robot getting stuck on a game piece",
+    "A team taking a group photo",
+    "A robot expertly manipulating game pieces",
+    "A coach furiously scribbling notes",
+    "A team packing up to leave an event",
+    "A robot expertly delivering a game piece",
+    "A team anxiously awaiting their match",
+    "A robot precariously balancing on one wheel",
+    "A team hosting a team-building event",
+    "A robot dramatically tipping over",
+    "A team excitedly discussing their match strategy",
+    "A robot expertly navigating a tight turn",
+    "A team making custom t-shirts",
+    "A robot effortlessly completing a task",
+    "A coach smiling with pride",
+    "A team member handing out high-fives",
+    "A robot expertly shooting a game piece",
+    "A team cheering on their alliance partner",
+    "A robot successfully lifting another robot",
+    "A robot doing the cha-cha slide",
+    "A GDC member taking shots at the competition",
+    "A last minute programming fix",
+    "A perfect autonomous run",
+    "A mechanical failure during a match",
+    "A team spirit award",
+    "A pit crew that works like a well-oiled machine",
+    "A tie game decided by a coin toss",
+    "An alliance that can't seem to communicate",
+    "A rookie team making it to the finals",
+    "A robot that can climb to the top of the pyramid",
+    "An MVP driver",
+    "A missed call by the referees",
+    "A robot that shoots t-shirts into the crowd",
+    "A team with a unique theme or costume",
+    "A perfectly executed robot reveal",
+    "A failed robot reveal",
+    "A team that builds a robot entirely out of cardboard",
+    "A team that forgets their robot's battery",
+    "A robot with a unique and creative name",
+    "A team that builds a robot in just one day",
+    "A mentor who is also a professional engineer",
+    "A mentor who used to be a competitor",
+    "A team with a mascot that gets the crowd hyped up",
+    "A pit crew member who gets injured during the competition",
+    "A robot that catches on fire during a match",
+    "A team that has a winning streak all season long",
+    "A team that always seems to come in second place",
+    "A robot that uses a unique drive system",
+    "A team that always plays fair and follows the rules.",
+    ""
+  ]
+}
