@@ -5,14 +5,6 @@ version: '3.8'
 
 networks:
   internal:
-
-# You may not want docker to manage your data like this.
-# Please see Docker's documentation for more on managing volumes: https://docs.docker.com/compose/compose-file/#volumes-top-level-element
-volumes:
-  storage-volume:
-
-# You will want to make a config, e.g:
-# docker config create md_server_config config.json5
 configs:
   md_server_config:
     external: true
@@ -27,6 +19,8 @@ services:
       - NODE_ENV=production
     networks:
       - internal
+    volumes:
+    - ./decks:/md/decks
     configs:
       - source: md_server_config
         target: /md/config.json5
