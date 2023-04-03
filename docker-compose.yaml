@@ -11,10 +11,17 @@ configs:
 
 services:
 
+  jsonagainst:
+    image: "ghcr.io/theinatorinator/mdjsonagainstlocal:latest"
+    networks:
+      - internal
+    hostname: jsonagainst
   server:
     # Pick your tag wisely for stability. In general, it's best to specify an exact version by commit hash and update manually.
     # Versioned tags are also provided, in order of stability: by version number (major "x", minor "x.y", and patch "x.y.z"), latest-release, latest-prerelease, or latest (head of main).
     image: "ghcr.io/lattyware/massivedecks/server:latest-release"
+    depends_on:
+      - jsonagainst
     environment:
       - NODE_ENV=production
     networks:
@@ -36,3 +43,6 @@ services:
     networks:
       - internal
     restart: unless-stopped
+
+
+

@@ -47,7 +47,7 @@
     // Allows players to use decks from JSON Against Humanity
     jsonAgainstHumanity: {
       aboutUrl: "https://github.com/crhallberg/json-against-humanity",
-      url: "https://raw.githubusercontent.com/crhallberg/json-against-humanity/v2.0/cah-all-compact.json",
+      url: "http://jsonagainst:80/cah-all-compact",
     },
   },
 
